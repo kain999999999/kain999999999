@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kain999999999&show_icons=true&layout=compact&theme=radical&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kain999999999&show_icons=true&layout=compact&theme=radical&locale=en)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kain999999999&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kain999999999&theme=radical)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kain999999999&theme=radical)
